@@ -70,7 +70,7 @@ library(skimr)
 - Copy `smoker_hdl.csv` to an easily accessible location
 - Use `read_csv()` from the `readr` package to import the csv
 - The argument supplied to `read_csv()` is the url or path to the dataset
-- Finally, assign the data to an R object using `<-` and call that object something simple like `bone`
+- Finally, assign the data to an R object using `<-` and call that object something simple like `smoker`
 
 ```{r}
 smoker <- read_csv('data/smoker_hdl.csv')
