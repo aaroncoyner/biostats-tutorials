@@ -4,10 +4,10 @@ R tutorials for PHPM 524: Introduction to Biostatistics at Oregon Health &amp; S
 # Tutorials
 ### Currently Available
 - [Confidence Intervals](https://www.aaroncoyner.io/tutorials/R_Tutorial_ConfidenceIntervals.html)
+- [Analysis of Variance (ANOVA)](https://www.aaroncoyner.io/tutorials/R_Tutorial_ANOVA.html)
 
 ### Coming Soon
 - t-Tests (One-Sample, Independent-Samples, and Paired)
-- Analysis of Variance (ANOVA)
 - Contingency Tables
 - Non-Parametric Tests
 - Correlation and Regression
