@@ -3,10 +3,10 @@ title: "R Tutorial: Confidence Intervals"
 author: "Created by Aaron Coyner"
 output:
   html_document:
-    keep_md: TRUE
+    keep_md: FALSE
     highlight: pygments
     theme: flatly
-    smart: false
+    smart: FALSE
     toc: TRUE
     toc_float: TRUE
     toc_depth: 2
@@ -36,7 +36,7 @@ The template used for this tutorial is from
 
 
 ```{r setup, include = FALSE}
-knitr::opts_chunk$set(error = TRUE, comment = NA, warning = FALSE, message = FALSE, tidy = FALSE, fig.path="figs/", echo = TRUE)
+knitr::opts_chunk$set(error = TRUE, comment = NA, warning = FALSE, message = FALSE, tidy = FALSE, echo = TRUE)
 ```
 
 
