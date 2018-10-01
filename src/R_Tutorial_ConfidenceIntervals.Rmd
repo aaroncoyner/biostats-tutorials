@@ -1,6 +1,5 @@
 ---
-title: "R Tutorial"
-subtitle: "Confidence Intervals"
+title: "R Tutorial: Confidence Intervals"
 author: "Created by Aaron Coyner"
 output:
   html_document:
