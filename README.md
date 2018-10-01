@@ -3,7 +3,7 @@ R tutorials for PHPM 524: Introduction to Biostatistics at Oregon Health &amp; S
 
 # Tutorials
 ### Currently Available
-- Confidence Intervals
+- [Confidence Intervals](https://www.aaroncoyner.io/tutorials/R_Tutorial_ConfidenceIntervals.html)
 
 ### Coming Soon
 - t-Tests (One-Sample, Independent-Samples, and Paired)
@@ -14,9 +14,8 @@ R tutorials for PHPM 524: Introduction to Biostatistics at Oregon Health &amp; S
 
 # Download Instructions
 ### For Students
-- Click the green "Clone or Download" button, select "Download ZIP," and save the file to an easily accessible location (i.e. your desktop).
-- Unzip the file and open it.
-- The 'tutorials' folder contains html files for each tutorial. These will open in your web browser and are interactive.
+Simply click on the link for the tutorial of interest under the "Currently Available" section. You may also download the file once you've accessed the website to have a local copy.
+
 
 ### For Instructors
 - Click the green "Clone or Download" button, select "Download ZIP," and save the file to an easily accessible location (i.e. your desktop).
